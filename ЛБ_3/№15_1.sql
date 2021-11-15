@@ -1,0 +1,1 @@
+INSERT INTO Salespeople VALUES (1100, 'Стеблов', 'Мытищи', NULL)
